@@ -1,0 +1,57 @@
+[{
+    "id":"1","competiton":"EPL",
+    "clubName":"Manchester city",
+    "manager":"pep",
+    "teamNunber":35,
+    "jersyColor":"lightBlue",
+    "stadium":"etihad",
+    "nickName":"The citizens"
+},
+
+{
+    "id":"2",
+    "competiton":"EPL",
+    "clubName":"Arsenal FC",
+    "manager":"arteta",
+    "teamNunber":35,
+    "jersyColor":"red and white",
+    "stadium":"emirates",
+    "nickName":"Gunners"
+},
+
+{
+    "id":"3",
+    "competiton":"EPL",
+    "clubName":"New castle",
+    "manager":"eddie Howe",
+    "teamNunber":35,
+    "jersyColor":"black and white",
+    "stadium":"st. james park",
+    "nickName":"The mag pies"
+},
+
+{
+    "id":"4",
+    "competiton":"EPL",
+    "clubName":"Man chesterUnited",
+    "manager":"eric ten hag",
+    "teamNunber":35,
+    "jersyColor":"red",
+    "stadium":"old trafford",
+    "nickName":"Red devils"
+},
+{
+    "id":"5",
+    "competiton":"EPL",
+    "clubName":"LiverPool FC",
+    "manager":"jurgen klopp",
+    "teamNunber":35,
+    "jersyColor":"dark red",
+    "stadium":"ann field",
+    "nickName":"The reds"
+},
+
+{"id":"410cf6e7-02cb-42a3-af76-b7f94734f21a"},
+
+{"id":"fafec3bd-464f-443f-81a6-7c1cabbadc04"}
+]
